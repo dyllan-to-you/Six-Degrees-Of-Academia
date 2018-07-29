@@ -1,8 +1,11 @@
 This application is composed of three parts: The Database, The Graph Generator, and The Renderer. 
 
+This was my first program in Python. Can you tell? 
+
 The Database
 ============
-You can find an image outlining the database schema in /data/Database Diagram.PNG
+You can find an image outlining the database schema in `/data/Database Diagram.PNG`.
+You can also find the original data used to populate the databse in the same `/data/` folder.
 
 
 The Graph Generator
